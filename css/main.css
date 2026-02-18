@@ -5,7 +5,7 @@ body {
 
 header,
 footer {
-  background-color: lightgray;
+  background-color: rgb(211, 211, 211);
 }
 
 .site-title {
@@ -21,7 +21,7 @@ footer {
 }
 
 .hobbies li:nth-child(odd) {
-  background-color: #f2f2f2;
+  background-color: purple;
 }
 
 nav ul {
@@ -30,11 +30,11 @@ nav ul {
 
 nav a {
   text-decoration: none;
-  background-color: #e0e0e0;
+  background-color: yellow;
   border: 1px solid black;
 }
 
 nav a:hover,
 nav a:focus {
-  background-color: #cccccc;
+  background-color:orange ;
 }
